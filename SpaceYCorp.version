@@ -1,22 +1,28 @@
 {
 	"NAME"			 : "SpaceY Corporation (SYC)",
-	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/SpaceYCorp.version",
-	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/SpaceYCorp/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/changelog.md",
+	"URL"			 : "https://raw.githubusercontent.com/linuxgurugamer/SpaceYCorp/master/SpaceYCorp.version",
+	"DOWNLOAD"		 : "https://github.com/linuxgurugamer/SpaceYCorp/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/linuxgurugamer/SpaceYCorp/master/changelog.md",
 	"GITHUB" :
 	{
-		"USERNAME"	        : "zer0Kerbal",
+		"USERNAME"	        : "linuxgurugamer",
 		"REPOSITORY"		: "SpaceYCorp",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
 	{
-		"MAJOR" : 1,
+		"MAJOR" : 2,
 		"MINOR" : 0,
-		"PATCH" : 4,
+		"PATCH" : 0,
 		"BUILD" : 0
 	},
-	"KSP_VERSION" :
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 1
+	},
+	"KSP_VERSION_MAX" :
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
