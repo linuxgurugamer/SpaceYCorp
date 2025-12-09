@@ -8,11 +8,8 @@ created: 17 Jul 2017
 updated: 18 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# [SpaceY Corporation (SYC)][CURSFG:url]
 
-[![SpaceY Corporation (SYC)][SHD:mod]][CURSFG:url]  
 [![KSP version][SHD:ksp]][KSP:url] [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
 ***Space, why? Because it's there!***
 
@@ -21,11 +18,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 SpaceY Corp's agent, flags, and common config files used in all SpaceY add-ons for Kerbal Space Program.
 
-## By [`zer0Kerbal`][zedK], inspired by, and with content licensed from [`NecroBones`][auth-link]
-
-An original creation by *KerbSimpleCo*
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/img/HeroLogo.png" alt="SpaceY Corp (SYC)" width="50%" height="50%">
 
 ### See more
 
@@ -52,8 +44,6 @@ An original creation by *KerbSimpleCo*
 
 ### Help Wanted
 
-> * Logo(s) for [SpaceY Corporation (SYC)][CURSFG:url]
-> * *lorem ipsum* text for the Agency description
 > * Additional flags
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
@@ -61,19 +51,17 @@ An original creation by *KerbSimpleCo*
 
 ### Installation Directions
 
-Most recent releases only available via CurseForge/OverWolf Website/App
-
-<a href="https://download.curseforge.com/"><img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" height="100px"></a>
+Available on SpaceDock, Github, and via CKAN
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
+  * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][SHD:ksp]][KSP:url]
 
 ### Recommends
 
-* [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
-  * [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) stock-balanced large rocket parts, 5m parts, large SRBs
-  * [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
+  * [SpaceY Corporation (SYC)](https://github.com/linuxgurugamer/SpaceYCorp/releases)
+  * [SpaceY Lifters (SYL)](https://github.com/linuxgurugamer/SpaceYLifters/releases) stock-balanced large rocket parts, 5m parts, large SRBs
+  * [SpaceY Expanded (SYX)](https://github.com/linuxgurugamer/SpaceYExpanded/releases)
 
 ### Suggests
 
@@ -137,13 +125,13 @@ agent, flags, parts, variants, config
 ### Credits and Special Thanks
 
 * [NecroBones][auth-link] for inspiring this addon!
+* [zer0Kerbal] for a number of changes
 * see [Attribution][attrb] for more
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Original Author (ROOT) (0): [`zer0Kerbal`][zedK]
 
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [CurseForge][CURSFG:url]  
+> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download [https://github.com/linuxgurugamer/SpaceYCorp/releases]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
 #### Disclaimer(s)
@@ -153,7 +141,6 @@ agent, flags, parts, variants, config
 >
 >* see [Notices][notic] for more *legal Mumbo Jumbo*
 
-### How to support this and other great mods by [`zer0Kerbal`][zedK]
 
 Comment, click, like, share, up-vote, subscribe
 
@@ -163,13 +150,13 @@ Comment, click, like, share, up-vote, subscribe
 [![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url]
 
 <!-- links -->
-[attrb]: https://zer0kerbal.github.io/SpaceYCorp/Attributions "Attribution"
-[chlog]: https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/changelog.md  "Changelog"
-[discu]: https://github.com/zer0Kerbal/SpaceYCorp/discussions "Discussions"
+[attrb]: https://github.com/linuxgurugamer/SpaceYCorp/Attributions "Attribution"
+[chlog]: https://raw.githubusercontent.com/linuxgurugamer/SpaceYCorp/master/changelog.md  "Changelog"
+[discu]: https://github.com/linuxgurugamer/SpaceYCorp/discussions "Discussions"
 [forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/209511-*/ "SpaceY Corporation (SYC)"
-[issue]: https://github.com/zer0Kerbal/SpaceYCorp/issues "Issues"
-[notic]: https://zer0kerbal.github.io/SpaceYCorp/Notices "Notices"
-[pages]: https://zer0kerbal.github.io/SpaceYCorp "GitHub Pages"
+[issue]: https://github.com/linuxgurugamer/SpaceYCorp/issues "Issues"
+[notic]: https://github.com/linuxgurugamer/SpaceYCorp/Notices "Notices"
+[pages]: https://github.com/linuxgurugamer/SpaceYCorp "GitHub Pages"
 
 <!--- shields -->
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/mod.json
@@ -180,14 +167,10 @@ Comment, click, like, share, up-vote, subscribe
 [LIC:log]: https://licensebuttons.net/i/l/by-sa/transparent/33/66/99/76x22.png "CC BY-SA 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/license.json "CC BY-SA 4.0"
 
-[LIC:sp:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
-[LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
-
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp "Curseforge"
-[CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
+https://github.com/linuxgurugamer/SpaceYCorp/releases "Github"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/SpaceYCorp/ "GitHub"
+[GITHUB:url]: https://github.com/linuxgurugamer/SpaceYCorp/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 <!-- Kerbal Space Program -->
@@ -200,20 +183,12 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
+[PAYPAL:url]: https://paypal.me/linuxgurugamer "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
+[PATREON:url]: https://www.patreon.com/linuxgurugamer/membership "Patreon"
 
-[curseforge]: https://curseforge.com/members/zer0kerbal/projects
-[reddit]: https://www.reddit.com/user/zer0Kerbal
-[twitch]: https://www.twitch.tv/zer0kerbal
-[twitter]: https://twitter.com/zer0Kerbal
-[youtube]: https://www.youtube.com/@zer0Kerbal
-[steam]: https://steamcommunity.com/id/zeroKerbal
-[projects]: https://zer0kerbal.github.io/zer0Kerbal/projects.html
+[reddit]: https://www.reddit.com/user/linuxgurugamer
+[twitch]: https://www.twitch.tv/linuxgurugamer
+[steam]: https://steamcommunity.com/id/linuxgurugamer
 
-#### Connect with me
 
-Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/SpaceYCorp/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
-
-[<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zedk] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br>
