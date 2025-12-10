@@ -3,3 +3,6 @@ Changelog
 2.0.0.1
 	Thanks to github user @@aitorprado for this:
 		Spanish translation
+
+	Removed all custom files from @zer0Kerbal which were ARR
+	

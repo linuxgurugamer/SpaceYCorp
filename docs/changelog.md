@@ -1,16 +1,4 @@
----
-permalink: /Changelog.html
-title: The Change Log
-description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
----
-<!-- 
-hdr-changelog.md v1.0.0.0
-SpaceY Corp (SYC)
-created: 13 May 2022
-updated:
-CC BY-ND 4.0 by zer0Kerbal
---># Changelog  
+# Changelog  
   
 | modName    | SpaceY Corp (SYC)                                                 |
 | ---------- | ----------------------------------------------------------------- |
@@ -92,10 +80,9 @@ CC BY-ND 4.0 by zer0Kerbal
 * Update
   * <en-us.cfg> v1.0.3.0
   * adds additional localization strings from SYL
-  * HeroLogo
 * updates #6 - Localization - Master
 * updates #7 - English <en-us.cfg>
-* updates #26 - Create HeroLogo.png
+
 
 ### Status 1.0.3.0
 
@@ -171,8 +158,7 @@ CC BY-ND 4.0 by zer0Kerbal
     * updates #7 - English <us-en.cfg>
     * updates #6 - Localization - Master
   * converted all images to .dds
-  * hero/cover logo (missing central image)
-    * updates #26 - Create HeroLogo.png
+
 * Status/Issues
   * closes #30 - SpaceY Corp (SYC) 1.0.0.0-release `<Initial Public Offering>` edition
   * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
@@ -195,9 +181,6 @@ CC BY-ND 4.0 by zer0Kerbal
 * Flags
   * [SpaceY.png]
   * uses assets from SpaceY Lifters, see Attributions.md for details
-* Create
-  * HeroLogo
-* closes #26 - Create HeroLogo.png
 
 ### Localization
 
@@ -231,4 +214,3 @@ CC BY-ND 4.0 by zer0Kerbal
   * closes #4 - 0.9.99.0 Create Social Media
 
 ---
-

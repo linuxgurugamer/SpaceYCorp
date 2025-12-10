@@ -80,10 +80,9 @@
 * Update
   * <en-us.cfg> v1.0.3.0
   * adds additional localization strings from SYL
-  * HeroLogo
 * updates #6 - Localization - Master
 * updates #7 - English <en-us.cfg>
-* updates #26 - Create HeroLogo.png
+
 
 ### Status 1.0.3.0
 
@@ -159,8 +158,7 @@
     * updates #7 - English <us-en.cfg>
     * updates #6 - Localization - Master
   * converted all images to .dds
-  * hero/cover logo (missing central image)
-    * updates #26 - Create HeroLogo.png
+
 * Status/Issues
   * closes #30 - SpaceY Corp (SYC) 1.0.0.0-release `<Initial Public Offering>` edition
   * closes #31 - 1.0.0.0 Verify Legal Mumbo Jumbo
@@ -183,9 +181,6 @@
 * Flags
   * [SpaceY.png]
   * uses assets from SpaceY Lifters, see Attributions.md for details
-* Create
-  * HeroLogo
-* closes #26 - Create HeroLogo.png
 
 ### Localization
 

@@ -20,22 +20,11 @@ Adds SpaceY Corp's agent, flags, and common config files used in all SpaceY add-
 
 ## Installation Instructions
 
-### Using CurseForge/OverWolf app or CKAN
+### Using  CKAN
 
-You should be all good! (check for latest version on CurseForge)
+You should be all good! 
 
-### If Downloaded from CurseForge/OverWolf manual download
-
-To install, place the `SpaceY` folder inside your Kerbal Space Program's GameData folder:
-
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/SpaceY/SpaceYCorp`
-* Extract the package's `SpaceY/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/SpaceYCorp` --> `<KSP_ROOT>/GameData`
-    * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/SpaceY/SpaceYCorp`
-
-### If Downloaded from SpaceDock / GitHub / other
+###  Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 

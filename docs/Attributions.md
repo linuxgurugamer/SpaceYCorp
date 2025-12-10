@@ -69,10 +69,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
   <li><small>Everyone else who made modding tutorials.</small></li>
 </ul>
 
-### Art Asset(s)
-
-* Flags
-* Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
 
@@ -84,4 +80,4 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp "SpaceY Corp (SYC)"
+
